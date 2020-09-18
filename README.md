@@ -4,9 +4,6 @@
 
 https://openweathermap.org/api
 
-#### Test the app on Heroku link below:
-
-ss
 
 #### see below screenshot
 
